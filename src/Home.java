@@ -107,7 +107,7 @@ ResultSet rs;
 
         jLabel7.setText("Serial No");
 
-        jLabel4.setText("Name");
+        jLabel4.setText("Customer Name");
 
         jLabel5.setText("Type");
 
@@ -183,7 +183,7 @@ ResultSet rs;
 
         jComboBox1.setFont(new java.awt.Font("Tahoma", 1, 12)); // NOI18N
         jComboBox1.setForeground(new java.awt.Color(0, 0, 102));
-        jComboBox1.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Software", "Hardware", "Charger", "Sim", "Others" }));
+        jComboBox1.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Software repair", "Hardware  replacement", "phone chargers", "Pc chargers", "phone", "pc(Laptop/Desktop)", "Others" }));
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
