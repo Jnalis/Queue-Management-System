@@ -179,7 +179,7 @@ ResultSet rs;
             }
         });
 
-        jLabel1.setText("Name");
+        jLabel1.setText("Customer Name");
 
         jComboBox1.setFont(new java.awt.Font("Tahoma", 1, 12)); // NOI18N
         jComboBox1.setForeground(new java.awt.Color(0, 0, 102));
